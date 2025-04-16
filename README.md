@@ -92,7 +92,11 @@ Screenshot:-
 
 ![image](https://github.com/user-attachments/assets/a059d217-7dbc-46bc-b7aa-7f29a19e54c3)
 
+ Class Diagram :
 ![image](https://github.com/user-attachments/assets/a5e5dbe9-b40c-4f39-bf1d-6483859deb31)
 
+ Sequence Diagram :
 ![image](https://github.com/user-attachments/assets/77b13ceb-2ac2-4c5b-b4a1-82c9161b76b1)
 
+ Flow Diagram :
+![image](https://github.com/user-attachments/assets/096bf3f2-6761-477e-a209-5ad97ab9e1a1)
